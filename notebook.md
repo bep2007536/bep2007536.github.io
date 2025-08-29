@@ -1,10 +1,13 @@
-At the top, begin a table of contents, Ex.:
+# My Coding Notebook
+
 ## Table of Contents
-- [Day 1](#day-1)
-  - [Notes](#notes)
-  - [Practice](#practice)
+- [Flutter Notes](#flutter-notes)
+  - [What is Flutter?](#what-is-flutter)
+  - [Key Terms and Definitions](#key-terms-and-definitions)
 - [Day 2](#day-2)
-## Flutter Notes - [Insert Date]
+- [Notebook Style Guide] (#markdown-style-guide-for-coding-notebooks)
+
+## Flutter Notes
 
 ### 🧱 What is Flutter?
 - Definition:
